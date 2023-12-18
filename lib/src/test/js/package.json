@@ -1,0 +1,14 @@
+{
+  "name": "thescore",
+  "version": "1.0.0",
+  "description": "Android test for theScore app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Lam",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^8.26.2"
+  }
+}
